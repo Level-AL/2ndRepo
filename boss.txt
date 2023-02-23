@@ -1,2 +1,3 @@
 Hello my name is Alex and this is my sub branch I called apple juice.\
 now this line is info i added after merge was completed.
+wassup g
